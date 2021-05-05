@@ -1,0 +1,18 @@
+body {
+    background-color: #04a6eb;
+    color: #fdffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button {
+    padding: 5px 20px; /* 要素の内側の余白の設定。上下、左右の順で書く */
+    background-color: #337ab7;
+    color: #fdffff;
+    border-style: none; /* 境界線について。ここでは境界線を表示しない設定にしている */
+}
+
+input {
+    height: 20px;
+}
